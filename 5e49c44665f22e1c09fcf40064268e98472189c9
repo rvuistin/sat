@@ -1,0 +1,9 @@
+[
+  {
+    "SourceBranch": "wip/bar",
+    "TargetBranch": "wip/foo",
+    "CreateMergeRequest": true,
+    "CreatedAt": "2026-05-12T18:19:06.1138636+02:00",
+    "Author": "Roger Vuistiner"
+  }
+]
